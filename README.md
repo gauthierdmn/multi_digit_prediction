@@ -8,6 +8,7 @@ Note that I trained the models on GPUs to make the training faster so running in
 
 ## File Description
 
+* `DigitSequence`: a folder with Python files to download the SVHN dataset and train the final model. Just python type `python train.py` in this repository using your terminal to train the model.
 * `MNIST_multi_digit_classification.ipynb`: a notebook where a Deep CNN is trained on multi-digit numbers from MNIST dataset (toy exemple)
 * `SVHN_multi_digit_classification.ipynb`: a notebook where a Deep CNN is trained on multi-digit numbers from SVHN dataset
 * `DigitStructFile.py`: a Python file containing helper functions to deal with .mat files
